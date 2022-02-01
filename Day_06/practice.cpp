@@ -8,6 +8,7 @@ void displayArr(int* a,const  int& s) {
 	cout<<endl;
 }
 
+
 void selectionSort(int* a,const int& s) {
 	for (int i = 0; i < s; i++) {
 		int min = i;
